@@ -4,8 +4,8 @@ RENCANA KONTEN GRAND
   * Limit
   * Turunan
   * Integral
-    ^ Integral tak wajar
-    ^ Integral Parsial
+    ^ Integral Pecahan Parsial
+    ^ Integral Trigonometri
 - Buat tutorial integral
 - Buat tutorial kalkulus
   ^ L'Hopital
