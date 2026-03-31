@@ -5,6 +5,7 @@ RENCANA KONTEN GRAND
   * Turunan
   * Integral
     ^ Integral tak wajar
+    ^ Integral Parsial
 - Buat tutorial integral
 - Buat tutorial kalkulus
   ^ L'Hopital
