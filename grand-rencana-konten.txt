@@ -4,6 +4,7 @@ RENCANA KONTEN GRAND
   * Limit
   * Turunan
   * Integral
+- Buat tutorial integral
 - Buat tutorial kalkulus
 - Buat cara belajar Kalkulus
 - Buat High Cortisol Low Cortisol 
