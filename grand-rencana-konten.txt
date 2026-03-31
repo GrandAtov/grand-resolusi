@@ -6,6 +6,7 @@ RENCANA KONTEN GRAND
   * Integral
     ^ Integral Pecahan Parsial
     ^ Integral Trigonometri
+    ^ Integral Parsial
 - Buat tutorial integral
 - Buat tutorial kalkulus
   ^ L'Hopital
