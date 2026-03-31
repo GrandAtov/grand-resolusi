@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Grand Atov dari pontianak
+
+Resolusi Saya:
+- Membuat website menggunakan framework Laravel
+- Kuliah di CIT
