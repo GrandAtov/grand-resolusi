@@ -4,7 +4,10 @@ RENCANA KONTEN GRAND
   * Limit
   * Turunan
   * Integral
+    ^ Integral tak wajar
 - Buat tutorial integral
 - Buat tutorial kalkulus
+  ^ L'Hopital
 - Buat cara belajar Kalkulus
 - Buat High Cortisol Low Cortisol 
+- Belajar Kalkulus 3
