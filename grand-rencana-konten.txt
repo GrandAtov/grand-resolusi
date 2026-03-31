@@ -8,6 +8,7 @@ RENCANA KONTEN GRAND
     ^ Integral Trigonometri
 - Buat tutorial integral
 - Buat tutorial kalkulus
+  ^ L'Hopital
 - Buat cara belajar Kalkulus
 - Buat High Cortisol Low Cortisol 
-- Memasak
+- Belajar Kalkulus 3
